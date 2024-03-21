@@ -19,7 +19,7 @@ I have used sklearn data set and transform it to a Pandas dataframe.
 Using Logistic Regression Algorithm 
 P(y=1∣X)= 1/(1+exp(-z)) .
 
-​# Testing Model
+# Testing Model
 We have test the model using the testing part of data.
 
 
