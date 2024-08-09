@@ -1,4 +1,4 @@
-## Creating a breast Cancer prediction system using sklearn
+## Creating a breast Cancer prediction system using Logistic regression
 
 # Table of contents 
 - [Training Data](#data)
